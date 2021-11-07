@@ -1,0 +1,13 @@
+body
+{
+background-color: rgb(0, 136, 255);
+font-size: 25px;
+margin-left: 50px;
+}
+
+span 
+{
+    font-size: 20px;
+    float:right;
+    margin-right: 50px;
+}
